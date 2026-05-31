@@ -217,24 +217,6 @@ Verify:
 docker ps
 ```
 
----
-
-## 📸 Screenshots
-
-### Running Containers
-
-![Docker PS](screenshots/docker-ps.png)
-
-### Frontend Output
-
-![Frontend Output](screenshots/frontend-output.png)
-
-### Backend API Response
-
-![Backend Output](screenshots/backend-output.png)
-
----
-
 ## 🧹 Useful Commands
 
 ### Stop Containers
